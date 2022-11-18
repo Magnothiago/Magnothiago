@@ -19,7 +19,6 @@
 <img align="center" alt="flutter" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img align="center" alt="flutter" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img align="center" alt="flutter" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img align="center" alt="flutter" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
 </div><br />
 
 Passionate about technology and always looking for new challenges.
